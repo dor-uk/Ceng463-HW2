@@ -24,10 +24,10 @@ This repository contains code and resources for analyzing and classifying parlia
 ## Repository Structure
 
 The repository includes the following files:
-- `test_ori.ipynb`: Notebook for testing the **original Turkish speeches** model.
-- `test_power.ipynb`: Notebook for testing the **party status classification** model.
+- `test_ori.ipynb`: Notebook for testing the **orientation classification** model.
+- `test_power.ipynb`: Notebook for testing the **party power classification** model.
 - `train_ori.ipynb`: Notebook for training the **ideology classification** model using original data.
-- `train_power.ipynb`: Notebook for training the **party status classification** model.
+- `train_power.ipynb`: Notebook for training the **party power classification** model.
 
 
 
